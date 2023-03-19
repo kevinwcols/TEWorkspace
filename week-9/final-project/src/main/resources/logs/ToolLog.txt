@@ -1,0 +1,168 @@
+Date/Time: 2022/10/22 15:30:28 Contents: * socket wrench
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: 1eeab7a0-857e-4020-9149-9b23506f5613
+Date/Time: 2022/10/22 15:30:28 Contents: * socket wrench
+ - Manufacturer Name: DeWalt
+ - Count: 2
+ - Id: f9b5e253-6ad6-483e-a244-13cf959efbc5
+Date/Time: 2022/10/22 15:30:28 Contents: * power drill
+ - Manufacturer Name: DeWalt
+ - Count: 2
+ - Id: bb714a21-e547-49bc-b543-7df1513cc5fa
+Date/Time: 2022/10/22 15:30:28 Contents: * hand saw
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: f9a4f60d-1ab5-4220-855e-79af55ae8a2a
+Date/Time: 2022/10/22 15:30:28 Contents: * hammer
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: a6c3105b-0a8b-415a-9503-769851f1ddc8
+Date/Time: 2022/10/22 15:30:28 Contents: * stapler
+ - Manufacturer Name: DeWalt
+ - Count: 2
+ - Id: c3f6b8b4-885b-40d3-81bf-7de65729ea60
+Date/Time: 2022/10/22 15:30:28 Contents: * power drill
+ - Manufacturer Name: DeWalt
+ - Count: 1
+ - Id: 7488efa7-4a31-4203-80b5-424a3f1a16bb
+Date/Time: 2022/10/22 15:30:28 Contents: * socket wrench
+ - Manufacturer Name: DeWalt
+ - Count: 3
+ - Id: fe11c12f-e985-4b9e-8471-aff0a215f1e2
+Date/Time: 2022/10/22 15:30:28 Contents: * stapler
+ - Manufacturer Name: Swingline
+ - Count: 2
+ - Id: 36c454b6-50fa-4ec7-83b2-2a224758c474
+Date/Time: 2022/10/22 15:30:28 Contents: * hand saw
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: 7e67a86a-a201-44a8-a236-71d658c39f39
+Date/Time: 2022/10/22 15:30:28 Contents: * hammer
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: 26019508-8449-436a-92f1-0ef4263ceaba
+Date/Time: 2022/10/22 15:30:28 Contents: * hammer
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: 98036800-feba-4a7a-8dc0-94f88c35707e
+Date/Time: 2022/10/22 15:30:28 Contents: * hand saw
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: 36d24a2a-21e7-4027-9ba7-14b8c93da792
+Date/Time: 2022/10/22 15:30:28 Contents: * socket wrench
+ - Manufacturer Name: DeWalt
+ - Count: 1
+ - Id: 5ee194cc-fa1c-4c64-8384-7b0a7e43c55f
+Date/Time: 2022/10/22 15:30:28 Contents: * pry bar
+ - Manufacturer Name: Stanley
+ - Count: 2
+ - Id: d57282d9-4f3e-4790-b4e0-67fa2dc35e45
+Date/Time: 2022/10/22 15:30:28 Contents: * hammer
+ - Manufacturer Name: Vaughan
+ - Count: 2
+ - Id: b562ec93-76fe-4c87-97a9-f85783935e4b
+Date/Time: 2022/10/22 15:30:28 Contents: * hammer
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: f937fc90-fba5-4f3a-bd52-c61200ee104a
+Date/Time: 2022/10/22 15:30:28 Contents: * hand saw
+ - Manufacturer Name: Stanley
+ - Count: 3
+ - Id: 9c1e05ea-9800-43c6-8c5c-e47c06cb974a
+Date/Time: 2022/10/22 15:30:28 Contents: * power drill
+ - Manufacturer Name: Milwaukee
+ - Count: 2
+ - Id: 31ca4bac-8908-4df2-a4e3-90b8bb6d98df
+Date/Time: 2022/10/22 15:30:28 Contents: * stapler
+ - Manufacturer Name: DeWalt
+ - Count: 2
+ - Id: 7a4c2abc-ed60-415b-a65d-66ccff37be0c
+Date/Time: 2022/10/22 15:30:28 Contents: * socket wrench
+ - Manufacturer Name: DeWalt
+ - Count: 2
+ - Id: 921887ec-5eb6-4629-a609-e4a202c73207
+Date/Time: 2022/10/22 15:34:35 Contents: * socket wrench
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: 648f0e9f-21a9-4cba-9d67-9baad9d7af2b
+Date/Time: 2022/10/22 15:34:35 Contents: * socket wrench
+ - Manufacturer Name: DeWalt
+ - Count: 2
+ - Id: 6a9e4db1-16c4-428c-9baa-6cc7cf24c60d
+Date/Time: 2022/10/22 15:34:35 Contents: * power drill
+ - Manufacturer Name: DeWalt
+ - Count: 2
+ - Id: 717d5003-c640-41bc-b6c9-cb08f0a086fb
+Date/Time: 2022/10/22 15:34:35 Contents: * hand saw
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: 86cbf69c-eaf4-4f53-8c1b-3c61dde02b23
+Date/Time: 2022/10/22 15:34:35 Contents: * hammer
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: e0315a55-2396-4ee9-a800-fc734f121a13
+Date/Time: 2022/10/22 15:34:35 Contents: * stapler
+ - Manufacturer Name: DeWalt
+ - Count: 2
+ - Id: 416c235f-4c2c-4e5d-bdd4-355d96a49035
+Date/Time: 2022/10/22 15:34:35 Contents: * power drill
+ - Manufacturer Name: DeWalt
+ - Count: 1
+ - Id: 44314f9c-0467-4ec1-9bdc-d13587370dcb
+Date/Time: 2022/10/22 15:34:35 Contents: * socket wrench
+ - Manufacturer Name: DeWalt
+ - Count: 3
+ - Id: 5502a867-8a80-403d-81b7-87097eced2c9
+Date/Time: 2022/10/22 15:34:35 Contents: * stapler
+ - Manufacturer Name: Swingline
+ - Count: 2
+ - Id: aa04142c-d129-4cd4-b6a9-d4b4ed9dd887
+Date/Time: 2022/10/22 15:34:35 Contents: * hand saw
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: bf8b604a-22a0-433c-adc4-3508ec7a0297
+Date/Time: 2022/10/22 15:34:35 Contents: * hammer
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: ac365b7a-b6bd-42a1-9b59-7f2b59c5b27a
+Date/Time: 2022/10/22 15:34:35 Contents: * hammer
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: 1a7a9003-4816-4a9f-be2f-bbee02730edb
+Date/Time: 2022/10/22 15:34:35 Contents: * hand saw
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: c5dedf09-798b-4d00-98b4-bbdb17219d29
+Date/Time: 2022/10/22 15:34:35 Contents: * socket wrench
+ - Manufacturer Name: DeWalt
+ - Count: 1
+ - Id: 761d08b2-9784-4d47-8921-d065271da60e
+Date/Time: 2022/10/22 15:34:35 Contents: * pry bar
+ - Manufacturer Name: Stanley
+ - Count: 2
+ - Id: 75a74757-1036-4f64-b8de-91a0d9d5b099
+Date/Time: 2022/10/22 15:34:35 Contents: * hammer
+ - Manufacturer Name: Vaughan
+ - Count: 2
+ - Id: 5e1058ea-41b2-4f2f-b60f-9c29f1c73de2
+Date/Time: 2022/10/22 15:34:35 Contents: * hammer
+ - Manufacturer Name: Craftsman
+ - Count: 1
+ - Id: 381c1d35-c75a-477d-8721-83c6e99ede12
+Date/Time: 2022/10/22 15:34:35 Contents: * hand saw
+ - Manufacturer Name: Stanley
+ - Count: 3
+ - Id: cf938c31-939d-427b-84f6-7b93cc2b91c2
+Date/Time: 2022/10/22 15:34:35 Contents: * power drill
+ - Manufacturer Name: Milwaukee
+ - Count: 2
+ - Id: a953cc8b-04f4-47a0-a696-5b343f31996f
+Date/Time: 2022/10/22 15:34:35 Contents: * stapler
+ - Manufacturer Name: DeWalt
+ - Count: 2
+ - Id: 226aeb54-708e-483f-b262-8a38590ae16c
+Date/Time: 2022/10/22 15:34:35 Contents: * socket wrench
+ - Manufacturer Name: DeWalt
+ - Count: 2
+ - Id: e721fcc6-2643-4eeb-a39b-2075537dc711

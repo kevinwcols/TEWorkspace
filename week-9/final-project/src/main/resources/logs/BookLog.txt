@@ -1,0 +1,432 @@
+Date/Time: 2022/10/22 15:28:34 Contents: * Raising Steam
+ - Written by: Terry Pratchett
+ - Published Date: 2013-11-07
+ - Id: 3f5fd2d2-49a7-4712-a17b-81555b289c9d
+Date/Time: 2022/10/22 15:28:34 Contents: * Making Money
+ - Written by: Terry Pratchett
+ - Published Date: 2007-09-18
+ - Id: 52075fc9-8ba9-456d-836e-bd3af0923397
+Date/Time: 2022/10/22 15:28:34 Contents: * Going Postal
+ - Written by: Terry Pratchett
+ - Published Date: 2004-09-25
+ - Id: 5e0c2f29-9500-4627-9743-1b3b8ee80344
+Date/Time: 2022/10/22 15:28:34 Contents: * Exhalation
+ - Written by: Ted Chiang
+ - Published Date: 2008-11-15
+ - Id: 98c10cdf-2ed4-4a6b-a77a-45f56dc56927
+Date/Time: 2022/10/22 15:28:34 Contents: * Jurassic Park
+ - Written by: Michael Crichton
+ - Published Date: 1990-11-20
+ - Id: e71d2e04-d244-4744-949c-4b20b93c3230
+Date/Time: 2022/10/22 15:28:34 Contents: * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published Date: 1990-05-01
+ - Id: 5f9d2f10-85ed-4a41-aba4-22ddb5ccabda
+Date/Time: 2022/10/22 15:28:34 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published Date: 1979-10-12
+ - Id: 60ad5e13-6d46-4a60-bda9-5aade972647c
+Date/Time: 2022/10/22 15:28:34 Contents: * The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1954-11-11
+ - Id: 39179096-421a-4963-a85e-e4a08e641d46
+Date/Time: 2022/10/22 15:28:34 Contents: * The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1954-07-29
+ - Id: 0bd8e637-44da-4662-b0d4-82b7086604f4
+Date/Time: 2022/10/22 15:28:34 Contents: * The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1955-10-20
+ - Id: 9e258a16-c131-4c85-b162-8cbe172c5718
+Date/Time: 2022/10/22 15:28:34 Contents: * Animal Farm
+ - Written by: George Orwell
+ - Published Date: 1945-08-17
+ - Id: 0b5e9c45-94d3-4630-ab5f-2258b92e5310
+Date/Time: 2022/10/22 15:28:34 Contents: * Racing the Beam
+ - Written by: Nick Montfort and Ian Bogost
+ - Published Date: 2009-03-01
+ - Id: 71d41892-1f14-40af-b9af-84da91282b15
+Date/Time: 2022/10/22 15:28:34 Contents: * Programming for the Puzzled
+ - Written by: Srini Devadas
+ - Published Date: 2017-11-09
+ - Id: b63f9c6c-3f11-48a2-bc8b-74be085abf74
+Date/Time: 2022/10/22 15:28:34 Contents: * Once Upon an Algorithm
+ - Written by: Martin Erwig
+ - Published Date: 2017-08-11
+ - Id: cc86e1cd-27dc-4edb-970d-dc53721518f2
+Date/Time: 2022/10/22 15:28:34 Contents: * The Moon is a Harsh Mistress
+ - Written by: Robert A. Heinlein
+ - Published Date: 1966-06-02
+ - Id: fd038bee-3903-40aa-9ae1-b4f4b3f44c69
+Date/Time: 2022/10/22 15:28:34 Contents: * Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published Date: 1961-06-01
+ - Id: b81ba859-3261-4e47-9662-4441b3cadf33
+Date/Time: 2022/10/22 15:30:28 Contents: * Exhalation
+ - Written by: Ted Chiang
+ - Published Date: 2008-11-15
+ - Id: 3d9f475d-c685-45e2-8b3a-8ac6834abf2e
+Date/Time: 2022/10/22 15:30:28 Contents: * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published Date: 1990-05-01
+ - Id: 5ac66cde-9bb2-4d27-879e-ab36bd12be47
+Date/Time: 2022/10/22 15:30:28 Contents: * Foundation
+ - Written by: Isaac Asimov
+ - Published Date: 1951-08-30
+ - Id: 2f7fadb0-0fcb-43f8-b32f-8e2253d6c5af
+Date/Time: 2022/10/22 15:30:28 Contents: * Foundation's Edge
+ - Written by: Isaac Asimov
+ - Published Date: 1982-10-28
+ - Id: 4ef617a9-dc02-4471-9c96-1c9a4932eed5
+Date/Time: 2022/10/22 15:30:28 Contents: * The Hunger Games
+ - Written by: Suzanne Collins
+ - Published Date: 2008-09-14
+ - Id: 3e601c92-7c98-4c50-9eb9-20eb19c15332
+Date/Time: 2022/10/22 15:30:28 Contents: * Going Postal
+ - Written by: Terry Pratchett
+ - Published Date: 2004-09-25
+ - Id: bca77479-fee0-4564-853c-0ddcecc9aced
+Date/Time: 2022/10/22 15:30:28 Contents: * Making Money
+ - Written by: Terry Pratchett
+ - Published Date: 2007-09-18
+ - Id: 925c4dbe-7b8b-4fc0-88ed-d5ea49dec30b
+Date/Time: 2022/10/22 15:30:28 Contents: * Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published Date: 1961-06-01
+ - Id: d44126f5-2e43-4e34-926c-79c249be0c04
+Date/Time: 2022/10/22 15:30:28 Contents: * Exhalation
+ - Written by: Ted Chiang
+ - Published Date: 2008-11-15
+ - Id: 77d5e175-8593-4719-bf06-048ed5188694
+Date/Time: 2022/10/22 15:30:28 Contents: * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published Date: 1990-05-01
+ - Id: d7d27af2-21e4-4825-938a-112cd55217fc
+Date/Time: 2022/10/22 15:30:28 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published Date: 1979-10-12
+ - Id: 18e3038b-a768-459a-b9f8-4c0fcb31a96a
+Date/Time: 2022/10/22 15:30:28 Contents: * Animal Farm
+ - Written by: George Orwell
+ - Published Date: 1945-08-17
+ - Id: aff40cf6-0f1e-434f-9d20-fca2a28405e0
+Date/Time: 2022/10/22 15:30:28 Contents: * Jurassic Park
+ - Written by: Michael Crichton
+ - Published Date: 1990-11-20
+ - Id: 73a71bad-a57f-458f-909d-b2553bca4f76
+Date/Time: 2022/10/22 15:30:28 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published Date: 1979-10-12
+ - Id: 9b65e154-27e1-4e51-8bf1-dd735e82ca9f
+Date/Time: 2022/10/22 15:30:28 Contents: * Oh, the Places You'll Go!
+ - Written by: Dr. Seuss
+ - Published Date: 1990-01-22
+ - Id: f39c0531-1676-4728-9053-e57c27a5dd7f
+Date/Time: 2022/10/22 15:30:28 Contents: * Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published Date: 1961-06-01
+ - Id: 55f25786-c1f0-4616-a605-9cece52f7601
+Date/Time: 2022/10/22 15:30:28 Contents: * The Moon is a Harsh Mistress
+ - Written by: Robert A. Heinlein
+ - Published Date: 1966-06-02
+ - Id: 42978a03-6e30-4c0b-acea-d2f14c373513
+Date/Time: 2022/10/22 15:30:28 Contents: * Going Postal
+ - Written by: Terry Pratchett
+ - Published Date: 2004-09-25
+ - Id: e792f2bc-10e9-4ca3-b2f6-e6c5be4539a5
+Date/Time: 2022/10/22 15:30:28 Contents: * Raising Steam
+ - Written by: Terry Pratchett
+ - Published Date: 2013-11-07
+ - Id: 606a3142-d884-405b-91ec-4ddabf0bb968
+Date/Time: 2022/10/22 15:30:28 Contents: * Making Money
+ - Written by: Terry Pratchett
+ - Published Date: 2007-09-18
+ - Id: da9f861a-00d3-4765-a0c2-e3970fe270d5
+Date/Time: 2022/10/22 15:30:28 Contents: * The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1954-07-29
+ - Id: 7cdeb34d-41e0-4b46-98bb-d1483d45b314
+Date/Time: 2022/10/22 15:30:28 Contents: * The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1954-11-11
+ - Id: 7ea6aacb-14fe-475d-b916-188b427482dd
+Date/Time: 2022/10/22 15:30:28 Contents: * The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1955-10-20
+ - Id: 02de3ff7-a44b-4c2f-8a12-6eed5bf4dd7e
+Date/Time: 2022/10/22 15:30:28 Contents: * Oh, the Places You'll Go!
+ - Written by: Dr. Seuss
+ - Published Date: 1990-01-22
+ - Id: 2929b66a-d9db-4e74-a040-ec08d0d627d9
+Date/Time: 2022/10/22 15:30:28 Contents: * The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1954-07-29
+ - Id: 41b19923-6db8-4435-8668-cc41b7e4d708
+Date/Time: 2022/10/22 15:30:28 Contents: * The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1954-11-11
+ - Id: fa1e5d50-3272-4ef5-aad0-59e25d578f30
+Date/Time: 2022/10/22 15:30:28 Contents: * The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1955-10-20
+ - Id: eec6d696-2fbc-4441-9ecd-fe436d62f40c
+Date/Time: 2022/10/22 15:30:28 Contents: * The Hunger Games
+ - Written by: Suzanne Collins
+ - Published Date: 2008-09-14
+ - Id: 4283bc96-841f-47f8-b756-31585e865727
+Date/Time: 2022/10/22 15:30:28 Contents: * Piranesi
+ - Written by: Susanna Clarke
+ - Published Date: 2020-09-15
+ - Id: feb51746-d155-4b2d-a225-4ae0ebcc051f
+Date/Time: 2022/10/22 15:30:28 Contents: * Once Upon an Algorithm
+ - Written by: Martin Erwig
+ - Published Date: 2017-08-11
+ - Id: cbb7c44c-6cf7-4eb0-865a-41a24cf3330e
+Date/Time: 2022/10/22 15:30:28 Contents: * Raising Steam
+ - Written by: Terry Pratchett
+ - Published Date: 2013-11-07
+ - Id: 8e328eb5-e299-4b61-8a69-6fb05401c781
+Date/Time: 2022/10/22 15:30:28 Contents: * Making Money
+ - Written by: Terry Pratchett
+ - Published Date: 2007-09-18
+ - Id: e7c625ce-5535-45db-8204-ccb209e63157
+Date/Time: 2022/10/22 15:30:28 Contents: * Going Postal
+ - Written by: Terry Pratchett
+ - Published Date: 2004-09-25
+ - Id: 8368402b-a0eb-45ec-8613-fc15a4e579b2
+Date/Time: 2022/10/22 15:30:28 Contents: * Exhalation
+ - Written by: Ted Chiang
+ - Published Date: 2008-11-15
+ - Id: cb1814a7-2190-40b1-944a-e88d0a943f9d
+Date/Time: 2022/10/22 15:30:28 Contents: * Jurassic Park
+ - Written by: Michael Crichton
+ - Published Date: 1990-11-20
+ - Id: 680dd0f4-9429-482f-99fd-2ff218532862
+Date/Time: 2022/10/22 15:30:28 Contents: * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published Date: 1990-05-01
+ - Id: 6c80ae83-5ffe-42ae-8f20-129eb89653d5
+Date/Time: 2022/10/22 15:30:28 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published Date: 1979-10-12
+ - Id: 87d4dda8-6a2d-43de-8d70-2eba8b876b98
+Date/Time: 2022/10/22 15:30:28 Contents: * The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1954-11-11
+ - Id: 1c763d50-8048-48fb-bbbc-f0cbc4821f14
+Date/Time: 2022/10/22 15:30:28 Contents: * The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1954-07-29
+ - Id: 4c49fd58-33f1-473c-8195-06226f4a0f88
+Date/Time: 2022/10/22 15:30:28 Contents: * The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1955-10-20
+ - Id: c9f588ee-fa12-4b68-9a9a-cc5d1412ad8d
+Date/Time: 2022/10/22 15:30:28 Contents: * Animal Farm
+ - Written by: George Orwell
+ - Published Date: 1945-08-17
+ - Id: e3ad0079-5522-4ce2-bb89-10208271ab9a
+Date/Time: 2022/10/22 15:30:28 Contents: * Racing the Beam
+ - Written by: Nick Montfort and Ian Bogost
+ - Published Date: 2009-03-01
+ - Id: 1a0fdc26-0bed-4748-b5a5-7a0c96905a02
+Date/Time: 2022/10/22 15:30:28 Contents: * Programming for the Puzzled
+ - Written by: Srini Devadas
+ - Published Date: 2017-11-09
+ - Id: 87971597-c79b-40f0-a9c6-e1e04294f112
+Date/Time: 2022/10/22 15:30:28 Contents: * Once Upon an Algorithm
+ - Written by: Martin Erwig
+ - Published Date: 2017-08-11
+ - Id: 407333cc-2125-4894-8ab9-ac97b7ecb5ce
+Date/Time: 2022/10/22 15:30:28 Contents: * The Moon is a Harsh Mistress
+ - Written by: Robert A. Heinlein
+ - Published Date: 1966-06-02
+ - Id: 44e1cc2a-6584-479e-a4f5-40cc8e53d2e6
+Date/Time: 2022/10/22 15:30:28 Contents: * Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published Date: 1961-06-01
+ - Id: 3b5e727b-56db-4619-9e6e-662572a06081
+Date/Time: 2022/10/22 15:34:35 Contents: * Exhalation
+ - Written by: Ted Chiang
+ - Published Date: 2008-11-15
+ - Id: 51ab4098-0822-496f-9442-1543694110fb
+Date/Time: 2022/10/22 15:34:35 Contents: * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published Date: 1990-05-01
+ - Id: 33251937-8080-4e29-aaa2-0c1a15a36425
+Date/Time: 2022/10/22 15:34:35 Contents: * Foundation
+ - Written by: Isaac Asimov
+ - Published Date: 1951-08-30
+ - Id: 7212872a-3865-4324-8d0d-b4489969125c
+Date/Time: 2022/10/22 15:34:35 Contents: * Foundation's Edge
+ - Written by: Isaac Asimov
+ - Published Date: 1982-10-28
+ - Id: 78d2aa8a-a8c9-4621-ae05-9d9fb979741d
+Date/Time: 2022/10/22 15:34:35 Contents: * The Hunger Games
+ - Written by: Suzanne Collins
+ - Published Date: 2008-09-14
+ - Id: e0dcbda3-88df-42b1-a5c5-64965bb3c462
+Date/Time: 2022/10/22 15:34:35 Contents: * Going Postal
+ - Written by: Terry Pratchett
+ - Published Date: 2004-09-25
+ - Id: 8317cf6b-d89d-449a-883d-117dcff5edfd
+Date/Time: 2022/10/22 15:34:35 Contents: * Making Money
+ - Written by: Terry Pratchett
+ - Published Date: 2007-09-18
+ - Id: 08e7fe79-401c-4abd-a111-c5fdb6bcbdee
+Date/Time: 2022/10/22 15:34:35 Contents: * Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published Date: 1961-06-01
+ - Id: 4bc8d75e-a4c4-4cbd-9a94-37ef929c691d
+Date/Time: 2022/10/22 15:34:35 Contents: * Exhalation
+ - Written by: Ted Chiang
+ - Published Date: 2008-11-15
+ - Id: 724f7d3c-e5b4-4b89-8818-e763245598ed
+Date/Time: 2022/10/22 15:34:35 Contents: * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published Date: 1990-05-01
+ - Id: 0def8c1e-fc38-4e48-b379-445dfc5ce3a2
+Date/Time: 2022/10/22 15:34:35 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published Date: 1979-10-12
+ - Id: 10a9baff-5a45-4182-9ff1-bcd810f5c1bc
+Date/Time: 2022/10/22 15:34:35 Contents: * Animal Farm
+ - Written by: George Orwell
+ - Published Date: 1945-08-17
+ - Id: 9d92a85e-5ea3-4169-b7cc-5390cf4905b0
+Date/Time: 2022/10/22 15:34:35 Contents: * Jurassic Park
+ - Written by: Michael Crichton
+ - Published Date: 1990-11-20
+ - Id: 1a42f1b2-163d-4dd1-b785-7d5a7f9d36b6
+Date/Time: 2022/10/22 15:34:35 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published Date: 1979-10-12
+ - Id: 345e5b91-66ea-4f33-b829-ca9a9bd63305
+Date/Time: 2022/10/22 15:34:35 Contents: * Oh, the Places You'll Go!
+ - Written by: Dr. Seuss
+ - Published Date: 1990-01-22
+ - Id: 87236578-e334-49dd-9029-1c3562a4bbef
+Date/Time: 2022/10/22 15:34:35 Contents: * Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published Date: 1961-06-01
+ - Id: 98e847ee-3f3a-4445-8219-53a5f8d16746
+Date/Time: 2022/10/22 15:34:35 Contents: * The Moon is a Harsh Mistress
+ - Written by: Robert A. Heinlein
+ - Published Date: 1966-06-02
+ - Id: 8028da19-d930-45c3-a2be-38b682c8278f
+Date/Time: 2022/10/22 15:34:35 Contents: * Going Postal
+ - Written by: Terry Pratchett
+ - Published Date: 2004-09-25
+ - Id: bc2a4f53-60ff-4335-b327-40b9c4cc9d4b
+Date/Time: 2022/10/22 15:34:35 Contents: * Raising Steam
+ - Written by: Terry Pratchett
+ - Published Date: 2013-11-07
+ - Id: eba3b335-a8fc-4118-a81c-e122476e2e4c
+Date/Time: 2022/10/22 15:34:35 Contents: * Making Money
+ - Written by: Terry Pratchett
+ - Published Date: 2007-09-18
+ - Id: 5e5aa10e-0f59-4ac3-a0eb-599b5a792fc3
+Date/Time: 2022/10/22 15:34:35 Contents: * The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1954-07-29
+ - Id: 3dec9ff4-0527-4776-9be3-88f0e961bff3
+Date/Time: 2022/10/22 15:34:35 Contents: * The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1954-11-11
+ - Id: 5dbb1ae7-b38f-435e-aea9-af3fc0d30c2b
+Date/Time: 2022/10/22 15:34:35 Contents: * The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1955-10-20
+ - Id: feeeff7c-1dad-45b9-aca5-a05b66f89861
+Date/Time: 2022/10/22 15:34:35 Contents: * Oh, the Places You'll Go!
+ - Written by: Dr. Seuss
+ - Published Date: 1990-01-22
+ - Id: eda943cb-bf10-4468-8e40-769ec0964051
+Date/Time: 2022/10/22 15:34:35 Contents: * The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1954-07-29
+ - Id: 2946b5a2-6789-4330-9613-8dd7ff727743
+Date/Time: 2022/10/22 15:34:35 Contents: * The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1954-11-11
+ - Id: 40aa160a-e6b1-436c-b875-913a823fa35d
+Date/Time: 2022/10/22 15:34:35 Contents: * The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1955-10-20
+ - Id: 70f5d6b9-3406-4e6e-a703-f90ccea2552e
+Date/Time: 2022/10/22 15:34:35 Contents: * The Hunger Games
+ - Written by: Suzanne Collins
+ - Published Date: 2008-09-14
+ - Id: 53b80785-2c25-4b51-aabb-1163a044e302
+Date/Time: 2022/10/22 15:34:35 Contents: * Piranesi
+ - Written by: Susanna Clarke
+ - Published Date: 2020-09-15
+ - Id: 9e4fbceb-1253-484b-a1b9-17a42163b799
+Date/Time: 2022/10/22 15:34:35 Contents: * Once Upon an Algorithm
+ - Written by: Martin Erwig
+ - Published Date: 2017-08-11
+ - Id: 4300a7da-0570-4efb-a257-e1639c4f26a2
+Date/Time: 2022/10/22 15:34:35 Contents: * Raising Steam
+ - Written by: Terry Pratchett
+ - Published Date: 2013-11-07
+ - Id: 51028bd2-292f-4bb9-a778-1818c60f1a48
+Date/Time: 2022/10/22 15:34:35 Contents: * Making Money
+ - Written by: Terry Pratchett
+ - Published Date: 2007-09-18
+ - Id: a91efb47-7338-4e09-b2c5-e6bfbcec8b12
+Date/Time: 2022/10/22 15:34:35 Contents: * Going Postal
+ - Written by: Terry Pratchett
+ - Published Date: 2004-09-25
+ - Id: 4c7ee333-b897-4a78-aec3-4bb7ca9c2e30
+Date/Time: 2022/10/22 15:34:35 Contents: * Exhalation
+ - Written by: Ted Chiang
+ - Published Date: 2008-11-15
+ - Id: ade79c9a-9681-4707-be24-4c87570ceb4f
+Date/Time: 2022/10/22 15:34:35 Contents: * Jurassic Park
+ - Written by: Michael Crichton
+ - Published Date: 1990-11-20
+ - Id: 546ba70a-74c9-45fd-a96d-3d413a1002e5
+Date/Time: 2022/10/22 15:34:35 Contents: * Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+ - Written by: Terry Pratchett & Neil Gaiman
+ - Published Date: 1990-05-01
+ - Id: 8368bc94-2de7-415a-afdb-db688b2d794d
+Date/Time: 2022/10/22 15:34:35 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Written by: Douglas Adams
+ - Published Date: 1979-10-12
+ - Id: d1a424fb-e32b-4d29-b4d9-b2d7d2f8b2bd
+Date/Time: 2022/10/22 15:34:35 Contents: * The Two Towers
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1954-11-11
+ - Id: 33384d16-fe96-47b6-91c4-3c37ab9668d7
+Date/Time: 2022/10/22 15:34:35 Contents: * The Fellowship of the Ring
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1954-07-29
+ - Id: e0522cfe-96ce-4c77-8f28-f8e11e2d2c45
+Date/Time: 2022/10/22 15:34:35 Contents: * The Return of the King
+ - Written by: J. R. R. Tolkien
+ - Published Date: 1955-10-20
+ - Id: 6bcd9d99-f055-44cb-8b6e-f0224636a256
+Date/Time: 2022/10/22 15:34:35 Contents: * Animal Farm
+ - Written by: George Orwell
+ - Published Date: 1945-08-17
+ - Id: 51e48fc7-3842-43cf-868a-37edbee565ea
+Date/Time: 2022/10/22 15:34:35 Contents: * Racing the Beam
+ - Written by: Nick Montfort and Ian Bogost
+ - Published Date: 2009-03-01
+ - Id: 22167029-e8c3-4c60-9c09-350966b99742
+Date/Time: 2022/10/22 15:34:35 Contents: * Programming for the Puzzled
+ - Written by: Srini Devadas
+ - Published Date: 2017-11-09
+ - Id: 707e4f12-1e7c-4568-a663-e1f52ab01988
+Date/Time: 2022/10/22 15:34:35 Contents: * Once Upon an Algorithm
+ - Written by: Martin Erwig
+ - Published Date: 2017-08-11
+ - Id: 41e394f5-7c14-4b28-8e83-2b02aaebb286
+Date/Time: 2022/10/22 15:34:35 Contents: * The Moon is a Harsh Mistress
+ - Written by: Robert A. Heinlein
+ - Published Date: 1966-06-02
+ - Id: 0b9e0077-c80c-4487-8f97-4a1ab433d34a
+Date/Time: 2022/10/22 15:34:35 Contents: * Stranger in a Strange Land
+ - Written by: Robert A. Heinlein
+ - Published Date: 1961-06-01
+ - Id: eb358ffe-b395-495c-9405-6c746194c55a

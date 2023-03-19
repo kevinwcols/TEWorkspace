@@ -1,0 +1,468 @@
+Date/Time: 2022/10/22 15:28:34 Contents: * Jurassic Park
+ - Director: Steven Spielberg
+ - Release Date: 1993-06-11
+ - Id: 7ee99b28-126b-4063-9a63-ee6cab0b8ec4
+Date/Time: 2022/10/22 15:28:34 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Director: Garth Jennings
+ - Release Date: 2005-04-28
+ - Id: 0684e0fd-c618-4ee8-8140-a7ebdf5fe09f
+Date/Time: 2022/10/22 15:28:34 Contents: * Home Alone
+ - Director: Chris Columbus
+ - Release Date: 1990-11-16
+ - Id: 713fbd98-916a-41a1-b926-37cc31c77296
+Date/Time: 2022/10/22 15:30:28 Contents: * Home Alone
+ - Director: Chris Columbus
+ - Release Date: 1990-11-16
+ - Id: 881e3c3f-c739-4d63-a6a6-033b1f353bfc
+Date/Time: 2022/10/22 15:30:28 Contents: * Jurassic Park
+ - Director: Steven Spielberg
+ - Release Date: 1993-06-11
+ - Id: 26d54f60-58c4-431d-8e92-81748b928d42
+Date/Time: 2022/10/22 15:30:28 Contents: * Memento
+ - Director: Christopher Nolan
+ - Release Date: 2000-10-11
+ - Id: 4e3ad0e0-37d0-4163-a93b-43d600b70640
+Date/Time: 2022/10/22 15:30:28 Contents: * Inception
+ - Director: Christopher Nolan
+ - Release Date: 2010-07-15
+ - Id: d9d0f77d-a64e-4010-8f81-daf3bbaa708a
+Date/Time: 2022/10/22 15:30:28 Contents: * Interstellar
+ - Director: Christopher Nolan
+ - Release Date: 2014-11-05
+ - Id: 0c6edfc9-3005-4dfd-bcf2-625ce65d0f29
+Date/Time: 2022/10/22 15:30:28 Contents: * Rouge One
+ - Director: Gareth Edwards
+ - Release Date: 2016-12-16
+ - Id: 5c2d4a44-7c5a-492c-8ba0-167a7698c243
+Date/Time: 2022/10/22 15:30:28 Contents: * Contact
+ - Director: Robert Zemeckis
+ - Release Date: 1997-07-11
+ - Id: a9d0ebed-167d-4c49-a4da-513804264883
+Date/Time: 2022/10/22 15:30:28 Contents: * Jurassic Park
+ - Director: Steven Spielberg
+ - Release Date: 1993-06-11
+ - Id: a4414014-50f5-4063-baca-c12de42b6532
+Date/Time: 2022/10/22 15:30:28 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Director: Garth Jennings
+ - Release Date: 2005-04-28
+ - Id: bc94336c-d2af-40fd-a41d-b9899fa63a6c
+Date/Time: 2022/10/22 15:30:28 Contents: * Star Wars
+ - Director: George Lucas
+ - Release Date: 1977-05-25
+ - Id: 4f26fc97-0a0e-46db-b729-775158b43d34
+Date/Time: 2022/10/22 15:30:28 Contents: * Star Trek
+ - Director: J.J. Abrams
+ - Release Date: 2009-05-06
+ - Id: 2c037906-22c9-4de7-9a77-6a98d0d9a44b
+Date/Time: 2022/10/22 15:30:28 Contents: * Star Trek Into Darkness
+ - Director: J.J. Abrams
+ - Release Date: 2013-05-05
+ - Id: 78025426-08fd-48d3-93c1-7ee772a56ec9
+Date/Time: 2022/10/22 15:30:28 Contents: * Forrest Gump
+ - Director: Robert Zemeckis
+ - Release Date: 1994-07-06
+ - Id: c6f3d807-ea8c-41bc-aa6c-54cb602fa964
+Date/Time: 2022/10/22 15:30:28 Contents: * Cast Away
+ - Director: Robert Zemeckis
+ - Release Date: 2000-12-22
+ - Id: ca316654-8756-4f2c-9f69-a3b363ca9ef5
+Date/Time: 2022/10/22 15:30:28 Contents: * The Fifth Element
+ - Director: Luc Besson
+ - Release Date: 1997-05-02
+ - Id: a8d4a95f-f4e1-48cd-a3b8-f9ea0fe0d57a
+Date/Time: 2022/10/22 15:30:28 Contents: * Close Encounters of the Third Kind
+ - Director: Steven Spielberg
+ - Release Date: 1977-11-18
+ - Id: 19bab3d1-36b3-48ad-94b3-ff885a5780a4
+Date/Time: 2022/10/22 15:30:28 Contents: * Star Wars
+ - Director: George Lucas
+ - Release Date: 1977-05-25
+ - Id: 816930c7-e6af-4f9f-a3ea-0477e98b2ca5
+Date/Time: 2022/10/22 15:30:28 Contents: * Jurassic Park
+ - Director: Steven Spielberg
+ - Release Date: 1993-06-11
+ - Id: ed8f7d0f-32c6-44df-91c7-62f26316d4ca
+Date/Time: 2022/10/22 15:30:28 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Director: Garth Jennings
+ - Release Date: 2005-04-28
+ - Id: 0e39671c-5c37-4653-aa4c-b12514a04503
+Date/Time: 2022/10/22 15:30:28 Contents: * Finding Nemo
+ - Director: Andrew Stanton
+ - Release Date: 2003-05-30
+ - Id: 56d03f7a-74ce-4a0e-a61c-57dfbe1cb58f
+Date/Time: 2022/10/22 15:30:28 Contents: * WALL·E
+ - Director: Andrew Stanton
+ - Release Date: 2008-06-22
+ - Id: 31a1c26d-4530-4415-a9be-a540189d3af9
+Date/Time: 2022/10/22 15:30:28 Contents: * Coco
+ - Director: Lee Unkrich
+ - Release Date: 2017-10-27
+ - Id: 32930c24-9359-452c-953a-992a44506eab
+Date/Time: 2022/10/22 15:30:28 Contents: * Toy Story 3
+ - Director: Lee Unkrich
+ - Release Date: 2010-06-16
+ - Id: 9b7d572e-309b-460f-87e2-b176c58bed5a
+Date/Time: 2022/10/22 15:30:28 Contents: * The Polar Express
+ - Director: Robert Zemeckis
+ - Release Date: 2004-11-10
+ - Id: 821ac56c-3460-4896-96c5-d694ac767d43
+Date/Time: 2022/10/22 15:30:28 Contents: * Shrek
+ - Director: Andrew Adamson
+ - Release Date: 2001-05-18
+ - Id: e1f6bb2c-de55-4758-8405-08f06691e279
+Date/Time: 2022/10/22 15:30:28 Contents: * Home Alone
+ - Director: Chris Columbus
+ - Release Date: 1990-11-16
+ - Id: 57df7858-0498-4809-a9e9-d467a66e415a
+Date/Time: 2022/10/22 15:30:28 Contents: * Back to the Future Part III
+ - Director: Robert Zemeckis
+ - Release Date: 1990-05-25
+ - Id: 220b0646-f144-45ec-abb3-71f398e951a0
+Date/Time: 2022/10/22 15:30:28 Contents: * Back to the Future
+ - Director: Robert Zemeckis
+ - Release Date: 1985-07-03
+ - Id: d6be112a-b831-44fe-8aba-82ac986f4558
+Date/Time: 2022/10/22 15:30:28 Contents: * Back to the Future Part II
+ - Director: Robert Zemeckis
+ - Release Date: 1989-11-22
+ - Id: d73cae8b-8eda-40b4-a9e5-037584d610c8
+Date/Time: 2022/10/22 15:30:28 Contents: * Who Framed Roger Rabbit
+ - Director: Robert Zemeckis
+ - Release Date: 1988-06-21
+ - Id: f872be3b-a5f4-4820-ae35-7beaac50d37e
+Date/Time: 2022/10/22 15:30:28 Contents: * The Lord of the Rings: The Fellowship of the Ring
+ - Director: Peter Jackson
+ - Release Date: 2001-12-18
+ - Id: 17dbe0bf-6b0b-48d9-a921-727cbe620524
+Date/Time: 2022/10/22 15:30:28 Contents: * The Lord of the Rings: The Two Towers
+ - Director: Peter Jackson
+ - Release Date: 2002-12-18
+ - Id: 69ccf663-2753-47e1-9e49-fe15aed4e0ab
+Date/Time: 2022/10/22 15:30:28 Contents: * The Lord of the Rings: The Return of the King
+ - Director: Peter Jackson
+ - Release Date: 2003-12-01
+ - Id: a1056e0c-b9eb-4136-a8b7-2d80c03b987c
+Date/Time: 2022/10/22 15:30:28 Contents: * Rouge One
+ - Director: Gareth Edwards
+ - Release Date: 2016-12-16
+ - Id: 49ebf395-a162-426b-8041-39861f30c9a9
+Date/Time: 2022/10/22 15:30:28 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Director: Garth Jennings
+ - Release Date: 2005-04-28
+ - Id: df012647-4215-4c13-8956-482544965f7f
+Date/Time: 2022/10/22 15:30:28 Contents: * Star Trek
+ - Director: J.J. Abrams
+ - Release Date: 2009-05-06
+ - Id: cf374b6b-b676-487a-9d88-42085eb65ae9
+Date/Time: 2022/10/22 15:30:28 Contents: * Star Trek II: The Wrath of Khan
+ - Director: Nicholas Meyer
+ - Release Date: 1982-06-04
+ - Id: bb639aad-6fce-4562-b27a-faf10f0d253e
+Date/Time: 2022/10/22 15:30:28 Contents: * Star Trek Into Darkness
+ - Director: J.J. Abrams
+ - Release Date: 2013-05-05
+ - Id: 592c46b0-5e13-4a19-b721-3e7d4c56353e
+Date/Time: 2022/10/22 15:30:28 Contents: * The Lord of the Rings: The Return of the King
+ - Director: Peter Jackson
+ - Release Date: 2003-12-01
+ - Id: 974b2f54-45e6-4ae6-a5e4-851650f7e080
+Date/Time: 2022/10/22 15:30:28 Contents: * The Lord of the Rings: The Two Towers
+ - Director: Peter Jackson
+ - Release Date: 2002-12-18
+ - Id: 09bc9642-4025-4a93-a29a-a82ae3bc5202
+Date/Time: 2022/10/22 15:30:28 Contents: * The Lord of the Rings: The Fellowship of the Ring
+ - Director: Peter Jackson
+ - Release Date: 2001-12-18
+ - Id: 1be9d1f3-e63a-46f7-86f0-866dd98a914d
+Date/Time: 2022/10/22 15:30:28 Contents: * Memento
+ - Director: Christopher Nolan
+ - Release Date: 2000-10-11
+ - Id: 359aaba4-d292-4c1c-b1cf-0f6c442ffdd0
+Date/Time: 2022/10/22 15:30:28 Contents: * Inception
+ - Director: Christopher Nolan
+ - Release Date: 2010-07-15
+ - Id: dea35009-1f2f-48a1-9a2e-91742f1817cb
+Date/Time: 2022/10/22 15:30:28 Contents: * Rouge One
+ - Director: Gareth Edwards
+ - Release Date: 2016-12-16
+ - Id: f880414c-4cee-49b7-badb-09be1cca6fdb
+Date/Time: 2022/10/22 15:30:28 Contents: * Star Wars
+ - Director: George Lucas
+ - Release Date: 1977-05-25
+ - Id: b4dcf61a-ed13-467b-893d-26717a6a2783
+Date/Time: 2022/10/22 15:30:28 Contents: * Back to the Future
+ - Director: Robert Zemeckis
+ - Release Date: 1985-07-03
+ - Id: a8ff4300-df96-4a81-8e21-35f3dfbee4cf
+Date/Time: 2022/10/22 15:30:28 Contents: * Back to the Future Part II
+ - Director: Robert Zemeckis
+ - Release Date: 1989-11-22
+ - Id: e5ee6cbd-7a6f-454e-ac18-059af6abb3ce
+Date/Time: 2022/10/22 15:30:28 Contents: * Back to the Future Part III
+ - Director: Robert Zemeckis
+ - Release Date: 1990-05-25
+ - Id: 8b17f1e9-84c2-4743-b23d-522d7905e53f
+Date/Time: 2022/10/22 15:30:28 Contents: * The Fifth Element
+ - Director: Luc Besson
+ - Release Date: 1997-05-02
+ - Id: e032d6b2-3786-4d89-9741-1c65a6d7e7c0
+Date/Time: 2022/10/22 15:30:28 Contents: * The Lord of the Rings: The Fellowship of the Ring
+ - Director: Peter Jackson
+ - Release Date: 2001-12-18
+ - Id: da65f951-f410-466c-b02e-b26e1e570529
+Date/Time: 2022/10/22 15:30:28 Contents: * The Lord of the Rings: The Two Towers
+ - Director: Peter Jackson
+ - Release Date: 2002-12-18
+ - Id: 8298a7e4-de11-420d-abc6-7248a685140c
+Date/Time: 2022/10/22 15:30:28 Contents: * The Lord of the Rings: The Return of the King
+ - Director: Peter Jackson
+ - Release Date: 2003-12-01
+ - Id: a82e5c85-eefb-4724-824b-695d5cedde13
+Date/Time: 2022/10/22 15:30:28 Contents: * Close Encounters of the Third Kind
+ - Director: Steven Spielberg
+ - Release Date: 1977-11-18
+ - Id: c1229ce7-0f60-4735-aea7-c5c8ada1def6
+Date/Time: 2022/10/22 15:30:28 Contents: * Star Trek Into Darkness
+ - Director: J.J. Abrams
+ - Release Date: 2013-05-05
+ - Id: 77d0338f-6374-413f-841c-919f3478b764
+Date/Time: 2022/10/22 15:30:28 Contents: * Jurassic Park
+ - Director: Steven Spielberg
+ - Release Date: 1993-06-11
+ - Id: 4beb5024-973c-465d-86bc-3b234ab9c72f
+Date/Time: 2022/10/22 15:30:28 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Director: Garth Jennings
+ - Release Date: 2005-04-28
+ - Id: 13498c46-1e11-412e-b20e-990aa6de9937
+Date/Time: 2022/10/22 15:30:28 Contents: * Home Alone
+ - Director: Chris Columbus
+ - Release Date: 1990-11-16
+ - Id: 7bfb308a-9788-4f49-ad34-d86d67bf9a04
+Date/Time: 2022/10/22 15:34:35 Contents: * Home Alone
+ - Director: Chris Columbus
+ - Release Date: 1990-11-16
+ - Id: 98eff611-cfc6-4b43-b547-548b6286a168
+Date/Time: 2022/10/22 15:34:35 Contents: * Jurassic Park
+ - Director: Steven Spielberg
+ - Release Date: 1993-06-11
+ - Id: d0f80682-26cd-40a4-bd48-c82241619e11
+Date/Time: 2022/10/22 15:34:35 Contents: * Memento
+ - Director: Christopher Nolan
+ - Release Date: 2000-10-11
+ - Id: 2c512f57-afae-4321-b47b-57f524c32eec
+Date/Time: 2022/10/22 15:34:35 Contents: * Inception
+ - Director: Christopher Nolan
+ - Release Date: 2010-07-15
+ - Id: 7c3015d1-1cf0-497c-bef5-4c761f2170e7
+Date/Time: 2022/10/22 15:34:35 Contents: * Interstellar
+ - Director: Christopher Nolan
+ - Release Date: 2014-11-05
+ - Id: 43811b57-5582-4c05-ab9d-8bc64115c410
+Date/Time: 2022/10/22 15:34:35 Contents: * Rouge One
+ - Director: Gareth Edwards
+ - Release Date: 2016-12-16
+ - Id: 7839bf80-f27a-4870-80ab-c533e932c38a
+Date/Time: 2022/10/22 15:34:35 Contents: * Contact
+ - Director: Robert Zemeckis
+ - Release Date: 1997-07-11
+ - Id: bc1c58e5-6c08-4c50-a41b-2537c00485d0
+Date/Time: 2022/10/22 15:34:35 Contents: * Jurassic Park
+ - Director: Steven Spielberg
+ - Release Date: 1993-06-11
+ - Id: 97729707-11ee-465f-8aa8-daa8635ee183
+Date/Time: 2022/10/22 15:34:35 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Director: Garth Jennings
+ - Release Date: 2005-04-28
+ - Id: a8638076-35d3-4187-88c6-2797dc9dd3d8
+Date/Time: 2022/10/22 15:34:35 Contents: * Star Wars
+ - Director: George Lucas
+ - Release Date: 1977-05-25
+ - Id: 0af0d4d0-8682-49a1-a78b-f5a369690143
+Date/Time: 2022/10/22 15:34:35 Contents: * Star Trek
+ - Director: J.J. Abrams
+ - Release Date: 2009-05-06
+ - Id: 9dfde1fc-b151-429a-ba8f-3727fa2d224e
+Date/Time: 2022/10/22 15:34:35 Contents: * Star Trek Into Darkness
+ - Director: J.J. Abrams
+ - Release Date: 2013-05-05
+ - Id: cd79311f-612a-44ec-952e-64288a9c89bc
+Date/Time: 2022/10/22 15:34:35 Contents: * Forrest Gump
+ - Director: Robert Zemeckis
+ - Release Date: 1994-07-06
+ - Id: 57fc4cd8-ee71-48e0-b037-46d1b9f21d65
+Date/Time: 2022/10/22 15:34:35 Contents: * Cast Away
+ - Director: Robert Zemeckis
+ - Release Date: 2000-12-22
+ - Id: 60fb91a4-70be-4a0e-b0c9-f766e99629e8
+Date/Time: 2022/10/22 15:34:35 Contents: * The Fifth Element
+ - Director: Luc Besson
+ - Release Date: 1997-05-02
+ - Id: cb1363e8-d728-4f46-a375-c8fdaa4b15a5
+Date/Time: 2022/10/22 15:34:35 Contents: * Close Encounters of the Third Kind
+ - Director: Steven Spielberg
+ - Release Date: 1977-11-18
+ - Id: 5b787c09-8e0f-4076-9b79-068b79005c73
+Date/Time: 2022/10/22 15:34:35 Contents: * Star Wars
+ - Director: George Lucas
+ - Release Date: 1977-05-25
+ - Id: e578db52-e0ec-4ca4-befa-b30fb08a5878
+Date/Time: 2022/10/22 15:34:35 Contents: * Jurassic Park
+ - Director: Steven Spielberg
+ - Release Date: 1993-06-11
+ - Id: 353e7f6b-40f7-4148-8888-9097607a3599
+Date/Time: 2022/10/22 15:34:35 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Director: Garth Jennings
+ - Release Date: 2005-04-28
+ - Id: e1c46442-64ab-4576-900e-b41f025ed1ca
+Date/Time: 2022/10/22 15:34:35 Contents: * Finding Nemo
+ - Director: Andrew Stanton
+ - Release Date: 2003-05-30
+ - Id: f13b46ef-2967-43b5-819c-ab1dfc5fc801
+Date/Time: 2022/10/22 15:34:35 Contents: * WALL·E
+ - Director: Andrew Stanton
+ - Release Date: 2008-06-22
+ - Id: 201a034f-5da8-46f7-9e25-96903d8db0ac
+Date/Time: 2022/10/22 15:34:35 Contents: * Coco
+ - Director: Lee Unkrich
+ - Release Date: 2017-10-27
+ - Id: f953aed5-3579-4950-a81e-7a2e76686e28
+Date/Time: 2022/10/22 15:34:35 Contents: * Toy Story 3
+ - Director: Lee Unkrich
+ - Release Date: 2010-06-16
+ - Id: 7398590f-db7f-4ce3-beb1-58333ed8c6e7
+Date/Time: 2022/10/22 15:34:35 Contents: * The Polar Express
+ - Director: Robert Zemeckis
+ - Release Date: 2004-11-10
+ - Id: bbf9fbf5-2a0f-4654-8a56-311704e91529
+Date/Time: 2022/10/22 15:34:35 Contents: * Shrek
+ - Director: Andrew Adamson
+ - Release Date: 2001-05-18
+ - Id: 8454626c-6c7e-4ca0-9929-a970f32037d4
+Date/Time: 2022/10/22 15:34:35 Contents: * Home Alone
+ - Director: Chris Columbus
+ - Release Date: 1990-11-16
+ - Id: 8e88c354-c6f1-4ee0-b041-5e678044ef72
+Date/Time: 2022/10/22 15:34:35 Contents: * Back to the Future Part III
+ - Director: Robert Zemeckis
+ - Release Date: 1990-05-25
+ - Id: e51cd59f-6810-4a03-8911-0b8fc54b7c8b
+Date/Time: 2022/10/22 15:34:35 Contents: * Back to the Future
+ - Director: Robert Zemeckis
+ - Release Date: 1985-07-03
+ - Id: 2fade351-764c-4fa4-af24-2ae77d1404c7
+Date/Time: 2022/10/22 15:34:35 Contents: * Back to the Future Part II
+ - Director: Robert Zemeckis
+ - Release Date: 1989-11-22
+ - Id: 49fedd7f-d788-458c-a9dd-1e529b166050
+Date/Time: 2022/10/22 15:34:35 Contents: * Who Framed Roger Rabbit
+ - Director: Robert Zemeckis
+ - Release Date: 1988-06-21
+ - Id: 1bb42665-e86b-49cf-a501-dbe1fc246095
+Date/Time: 2022/10/22 15:34:35 Contents: * The Lord of the Rings: The Fellowship of the Ring
+ - Director: Peter Jackson
+ - Release Date: 2001-12-18
+ - Id: 1d30e5e7-0b37-4308-8722-43b2fb4db565
+Date/Time: 2022/10/22 15:34:35 Contents: * The Lord of the Rings: The Two Towers
+ - Director: Peter Jackson
+ - Release Date: 2002-12-18
+ - Id: b43a8888-a899-42df-bc4b-04959ec1e0b5
+Date/Time: 2022/10/22 15:34:35 Contents: * The Lord of the Rings: The Return of the King
+ - Director: Peter Jackson
+ - Release Date: 2003-12-01
+ - Id: 068dd5be-f67a-4ad3-a596-a7f4bb90a33a
+Date/Time: 2022/10/22 15:34:35 Contents: * Rouge One
+ - Director: Gareth Edwards
+ - Release Date: 2016-12-16
+ - Id: cbc476d0-58c8-4f6d-a6b9-aaf0db04ee62
+Date/Time: 2022/10/22 15:34:35 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Director: Garth Jennings
+ - Release Date: 2005-04-28
+ - Id: 36968a67-01b3-4b72-973b-5c116d7d4a34
+Date/Time: 2022/10/22 15:34:35 Contents: * Star Trek
+ - Director: J.J. Abrams
+ - Release Date: 2009-05-06
+ - Id: 2671157c-36dd-4cff-9b26-0cca16eff5f3
+Date/Time: 2022/10/22 15:34:35 Contents: * Star Trek II: The Wrath of Khan
+ - Director: Nicholas Meyer
+ - Release Date: 1982-06-04
+ - Id: 32c0e591-b0e6-4e3e-9fc5-62552d35f63f
+Date/Time: 2022/10/22 15:34:35 Contents: * Star Trek Into Darkness
+ - Director: J.J. Abrams
+ - Release Date: 2013-05-05
+ - Id: fde1334e-0c58-4eb0-a36f-bc945efe9efe
+Date/Time: 2022/10/22 15:34:35 Contents: * The Lord of the Rings: The Return of the King
+ - Director: Peter Jackson
+ - Release Date: 2003-12-01
+ - Id: 2307d952-3953-483a-84e6-f28023d6c30a
+Date/Time: 2022/10/22 15:34:35 Contents: * The Lord of the Rings: The Two Towers
+ - Director: Peter Jackson
+ - Release Date: 2002-12-18
+ - Id: 81e11464-0e90-4734-ad76-94ba52fb3699
+Date/Time: 2022/10/22 15:34:35 Contents: * The Lord of the Rings: The Fellowship of the Ring
+ - Director: Peter Jackson
+ - Release Date: 2001-12-18
+ - Id: 33da4ca8-7d22-434b-b712-d7228c2f4eba
+Date/Time: 2022/10/22 15:34:35 Contents: * Memento
+ - Director: Christopher Nolan
+ - Release Date: 2000-10-11
+ - Id: dd0c73b7-41fc-4cea-b8d9-f3bb558cab37
+Date/Time: 2022/10/22 15:34:35 Contents: * Inception
+ - Director: Christopher Nolan
+ - Release Date: 2010-07-15
+ - Id: 049c4f2f-b752-4dac-91d1-b738e082c851
+Date/Time: 2022/10/22 15:34:35 Contents: * Rouge One
+ - Director: Gareth Edwards
+ - Release Date: 2016-12-16
+ - Id: de9b70f2-c465-4e00-a83c-7d7ca6698f01
+Date/Time: 2022/10/22 15:34:35 Contents: * Star Wars
+ - Director: George Lucas
+ - Release Date: 1977-05-25
+ - Id: e2508b6c-0655-48a3-9b1e-4543b42a1dd7
+Date/Time: 2022/10/22 15:34:35 Contents: * Back to the Future
+ - Director: Robert Zemeckis
+ - Release Date: 1985-07-03
+ - Id: cc3332f4-51d4-4da7-ab7d-8d2a36130da6
+Date/Time: 2022/10/22 15:34:35 Contents: * Back to the Future Part II
+ - Director: Robert Zemeckis
+ - Release Date: 1989-11-22
+ - Id: 66fc3662-7554-4071-aba6-193ee4d4bc7d
+Date/Time: 2022/10/22 15:34:35 Contents: * Back to the Future Part III
+ - Director: Robert Zemeckis
+ - Release Date: 1990-05-25
+ - Id: 89daa7cf-3384-4c5a-a824-c471265dc122
+Date/Time: 2022/10/22 15:34:35 Contents: * The Fifth Element
+ - Director: Luc Besson
+ - Release Date: 1997-05-02
+ - Id: 68285347-0380-471f-89e5-2d214d867ae7
+Date/Time: 2022/10/22 15:34:35 Contents: * The Lord of the Rings: The Fellowship of the Ring
+ - Director: Peter Jackson
+ - Release Date: 2001-12-18
+ - Id: d50f6a53-e0ed-4b84-b360-3d2b3e139a50
+Date/Time: 2022/10/22 15:34:35 Contents: * The Lord of the Rings: The Two Towers
+ - Director: Peter Jackson
+ - Release Date: 2002-12-18
+ - Id: 0bc6ab53-5136-48df-a5ae-cf7a16cb28ca
+Date/Time: 2022/10/22 15:34:35 Contents: * The Lord of the Rings: The Return of the King
+ - Director: Peter Jackson
+ - Release Date: 2003-12-01
+ - Id: 0ad226f5-fe48-45e2-959b-4e1853105409
+Date/Time: 2022/10/22 15:34:35 Contents: * Close Encounters of the Third Kind
+ - Director: Steven Spielberg
+ - Release Date: 1977-11-18
+ - Id: b87c3613-3196-420c-aedc-a208d50e6d82
+Date/Time: 2022/10/22 15:34:35 Contents: * Star Trek Into Darkness
+ - Director: J.J. Abrams
+ - Release Date: 2013-05-05
+ - Id: 5deb4e34-dea3-4439-bf57-fbcdf949e854
+Date/Time: 2022/10/22 15:34:35 Contents: * Jurassic Park
+ - Director: Steven Spielberg
+ - Release Date: 1993-06-11
+ - Id: 8c20b1e0-36ab-4b6d-8850-58e3b4aeaded
+Date/Time: 2022/10/22 15:34:35 Contents: * The Hitchhiker's Guide to the Galaxy
+ - Director: Garth Jennings
+ - Release Date: 2005-04-28
+ - Id: 72d1a337-57b2-4569-abce-7515061ec28c
+Date/Time: 2022/10/22 15:34:35 Contents: * Home Alone
+ - Director: Chris Columbus
+ - Release Date: 1990-11-16
+ - Id: 0084f4a8-c132-4aa9-939c-2d0a56c5ba90
