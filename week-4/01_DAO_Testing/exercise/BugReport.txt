@@ -1,0 +1,70 @@
+Bug 1
+-----
+Test that demonstrates problem:
+getTimesheetsByEmployeeId_returns_list_of_all_timesheets_for_employee @Test method
+Code to catch error:
+List<Timesheet> timesheets = dao.getTimesheetsByEmployeeId(1);
+Assert.assertEquals("getTimesheetsByEmployeeId failed to return all timesheets for employees", 2, timesheets.size());
+
+Expected output: 2
+
+Actual output: 1
+
+How did you fix this bug?
+When looping through results the getTimesheetsByEmployeeId method was using a if instead of while so I changed it to while.
+The if was only returning 1 record, the while looped through all results and returned 2 total records.
+
+
+Bug 2
+-----
+Test that demonstrates problem:
+getTimesheetsByProjectId_returns_list_of_all_timesheets_for_project
+Code to catch error:
+List<Timesheet> timesheets = dao.getTimesheetsByProjectId(1);
+Assert.assertEquals("getTimesheetsByProjectId failed to return all timesheets for projects", 3, timesheets.size());
+
+Expected output: 3
+
+Actual output: 2
+
+How did you fix this bug?
+Changed "WHERE employee_id = ? " + to "WHERE project_id = ? " +
+
+Bug 3
+-----
+Test that demonstrates problem:
+getBillableHours_returns_correct_total
+Code to catch error:
+double timesheetBillableHours = dao.getBillableHours(2,2);
+Assert.assertEquals(0, timesheetBillableHours, 0.0);
+
+Expected output: 0
+
+Actual output: 2
+
+How did you fix this bug?
+Changed "WHERE employee_id = ? AND project_id = ?"; to "WHERE billable and employee_id = ? AND project_id = ?";
+
+Bug 4
+-----
+Test that demonstrates problem:
+updated_timesheet_has_expected_values_when_retrieved
+Code to catch error:
+Timesheet timesheet = dao.getTimesheet(1);
+timesheet.setBillable(false);
+dao.updateTimesheet(timesheet);
+updatedTimesheet = dao.getTimesheet(1);
+Assert.assertEquals("updateTimesheet failed to change timesheet billable flag in database", false, updatedTimesheet.isBillable());
+
+
+Expected output:  false
+
+Actual output:  true
+
+How did you fix this bug?
+- Changed "SET employee_id = ?, project_id = ?, date_worked = ?, hours_worked = ?, description = ? " +
+       to "SET employee_id = ?, project_id = ?, date_worked = ?, hours_worked = ?, description = ?, billable = ? " +
+- Added the IsBillable() getter to the results:
+    jdbcTemplate.update(sql, updatedTimesheet.getEmployeeId(), updatedTimesheet.getProjectId(),
+                    updatedTimesheet.getDateWorked(), updatedTimesheet.getHoursWorked(), updatedTimesheet.getDescription(),
+                    updatedTimesheet.isBillable(), updatedTimesheet.getTimesheetId());
